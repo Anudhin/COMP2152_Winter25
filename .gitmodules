@@ -1,0 +1,6 @@
+[submodule "assignments/assignment1/first-contributions"]
+	path = assignments/assignment1/first-contributions
+	url = https://github.com/Anudhin/COMP2152_Winter25.git
+[submodule "awesome-codebases"]
+	path = awesome-codebases
+	url = https://github.com/Anudhin/COMP2152_Winter25.git
